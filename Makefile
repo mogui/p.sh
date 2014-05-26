@@ -1,9 +1,6 @@
 curdir = $(shell pwd)
 
-all: readme install
+all: install
 
 install:
-	cp p.sh ~/scripts/p.sh
-
-
-readme:
+	cp p.sh /usr/local/opt

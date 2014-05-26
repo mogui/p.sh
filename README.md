@@ -10,7 +10,7 @@ USAGE
 INSTALLATION
   Put something like this in your $HOME/.bashrc:
 
-  . /path/to/p.sh
+  . /path/to/p.sh (if you installed with make /usr/local/opt)
 
   Optionally you can set these vars in a file named, ~/.pshrc:
 
