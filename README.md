@@ -1,4 +1,4 @@
-  
+
     NAME
       p - a friendly script launcher
 
@@ -23,4 +23,5 @@
       all you have to do now is put your scripts in PSH_DIR !!
 
     NOTE
-      heavily inspired by z.sh`
+      1. heavily inspired by z.sh
+      2. to make a an help block in a new script just wrap it between --- just see the help script itself
